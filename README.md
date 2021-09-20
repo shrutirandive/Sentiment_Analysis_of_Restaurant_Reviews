@@ -21,4 +21,4 @@ Some terms related to NLP:
 
 ![image](https://user-images.githubusercontent.com/54211989/133938051-1941527a-a2e4-4a00-bf9a-801c99b1dbad.png)
 
-- **Confusion matrix, Accuracy, Recall and Precision score:** for refer. https://medium.com/analytics-vidhya/confusion-matrix-accuracy-precision-recall-f1-score-ade299cf63cd
+- **Confusion matrix, Accuracy, Recall and Precision score:**  https://medium.com/analytics-vidhya/confusion-matrix-accuracy-precision-recall-f1-score-ade299cf63cd (for refer.)
