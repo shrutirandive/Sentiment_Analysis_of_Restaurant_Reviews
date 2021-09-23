@@ -18,6 +18,6 @@ Some terms related to NLP:
 
 - **Stopwords:** words in any language which does not add much meaning to a sentence. They can safely be ignored without sacrificing the meaning of the sentence. For some search engines, these are some of the most common, short function words, such as the, is, at, a, can, which, I and on.
 
-![image](https://user-images.githubusercontent.com/54211989/133938051-1941527a-a2e4-4a00-bf9a-801c99b1dbad.png)
+![image](https://user-images.githubusercontent.com/54211989/134460508-cd75a832-263a-482e-9bfa-a3e938614913.png)
 
 - **Confusion matrix, Accuracy, Recall and Precision score:**  https://medium.com/analytics-vidhya/confusion-matrix-accuracy-precision-recall-f1-score-ade299cf63cd (for refer.)
