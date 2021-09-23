@@ -1,5 +1,4 @@
-# Sentiment_Analysis_of_Restaurant_Reviews
-
+# Sentiment_Analysis_of_Restaurant_Reviews 
 Sentiment analysis is a vital topic in the field of NLP(natural language processing). Basically its a text classification tasks where you are supplied with a phrase, or a list of phrases and your classifier is supposed to tell if the sentiment behind that is positive, negative or neutral. 
 
 - Used **Python** and **scikit-learn**
