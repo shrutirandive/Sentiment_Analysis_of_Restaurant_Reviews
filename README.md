@@ -3,7 +3,7 @@ Sentiment analysis is a vital topic in the field of NLP(natural language process
 
 - Used **Python** and **scikit-learn**
 - Algorithm applied - **RANDOM FOREST CLASSIFER** as predictive model for predicting sentiment of restaurant reviews
-- **Accuracy = 72.5% and Precision score = 0.9**
+- **Accuracy = 89.5% and Precision score = 0.83**
 - Custom prediction output :
 
    ![image](https://user-images.githubusercontent.com/54211989/134009012-2a311691-e90f-4c27-82d1-672005e126a3.png)
